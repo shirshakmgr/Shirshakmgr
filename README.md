@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am Introvert.
 
+[![Spotify](https://novatorem-shirshakmgr.vercel.app/api/spotify)](https://open.spotify.com/user/shirshakmgr)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
