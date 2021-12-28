@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Instagram](https://www.instagram.com/shirshak.mgr/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am Introvert.
-[![Spotify](https://shirshakmgr.vercel.app/api/spotify)](https://open.spotify.com/user/shirshakmgr)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
